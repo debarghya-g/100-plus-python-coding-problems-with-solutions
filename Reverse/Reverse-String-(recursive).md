@@ -31,8 +31,6 @@ print(str[3:])
 print(str[:])
 ```
 
-**[Try it on Programming Hero](https://play.google.com/store/apps/details?id=com.learnprogramming.codecamp)**
-
 
 ## Solution
 ```python
@@ -46,7 +44,6 @@ str = input("Enter your string: ")
 rev_str = reverse_recur(str)
 print ('Reverse of your string: ', rev_str)
 ```
-**[Try it on Programming Hero](https://play.google.com/store/apps/details?id=com.learnprogramming.codecamp)**
 
 ## Explanation
 In the recursive function, look at the else condition. We are selecting str[1:] 
@@ -68,8 +65,6 @@ txt = "Welcome to the Jungle"
 print(txt[::-1])
 ```
  
-**[Try it on Programming Hero](https://play.google.com/store/apps/details?id=com.learnprogramming.codecamp)**
- 
 ## Quiz
 How would you slide a string and get the first five characters?
 
@@ -83,14 +78,6 @@ How would you slide a string and get the first five characters?
    <p>The answer is: 3</p>
  </details>
 
-## take Away
+## Take Away
 You can slice a string to get a part of the string. 
  
-
- 
-&nbsp;
-[![Next Page](../assets/next-button.png)](Reverse-Number.md)
-&nbsp;
-
-tags:  `programming-hero`  `python`  `python3`  `problem-solving`  `programming`  `coding-challenge`  `interview`  `learn-python`  `python-tutorial`  `programming-exercises`  `programming-challenges`  `programming-fundamentals`  `programming-contest`  `python-coding-challenges`  `python-problem-solving`
-
