@@ -29,8 +29,6 @@ primes = all_primes(num)
 print(primes)
 ```
 
-**[Try it on Programming Hero](https://play.google.com/store/apps/details?id=com.learnprogramming.codecamp)**
-
 ## Explanation
 The first one is the is_prime that you have seen before. Now we created another function named all_primes. In the all_primes function, we create a list named primes to hold the prime numbers. Then run a for loop using range.
 
@@ -41,9 +39,3 @@ Inside the loop, call the is_prime function and check the return. If the return 
 Then return the primes list. 
 
 That’s it.
-
-&nbsp;
-[![Next Page](../assets/next-button.png)](Prime-Factors.md)
-&nbsp;
-
-tags:  `programming-hero`  `python`  `python3`  `problem-solving`  `programming`  `coding-challenge`  `interview`  `learn-python`  `python-tutorial`  `programming-exercises`  `programming-challenges`  `programming-fundamentals`  `programming-contest`  `python-coding-challenges`  `python-problem-solving`
