@@ -40,8 +40,6 @@ player2 = input("Second Player: rock, paper or scissors: ")
 print(get_winner(player1, player2))
 ```
 
-**[Try it on Programming Hero](https://play.google.com/store/apps/details?id=com.learnprogramming.codecamp)**
-
 ## Explanation
 We took 2 players' input. Send those to the get_winner function. Inside the function, first, we check whether both the player entered the same thing. Then it will become a tie. 
 
@@ -53,10 +51,3 @@ Now think for 5 minutes, is there any different way you could have written the i
 
 If you find a way, add a question here so that everyone can see your code.
 
-
-
-&nbsp;
-[![Next Page](../assets/next-button.png)](Cows-and-bulls.md)
-&nbsp;
-
-tags:  `programming-hero`  `python`  `python3`  `problem-solving`  `programming`  `coding-challenge`  `interview`  `learn-python`  `python-tutorial`  `programming-exercises`  `programming-challenges`  `programming-fundamentals`  `programming-contest`  `python-coding-challenges`  `python-problem-solving`
