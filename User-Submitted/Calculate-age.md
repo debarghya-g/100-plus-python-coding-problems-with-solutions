@@ -43,11 +43,3 @@ print("Your age: ", age)
 You used the datetime earlier. And then, calculated the days between the birth date and today’s date. 
 
 Then, divide the days by 365 to get the age!
-
-
-
-&nbsp;
-[![Next Page](../assets/next-button.png)](../README.md)
-&nbsp;
-
-tags:  `programming-hero`  `python`  `python3`  `problem-solving`  `programming`  `coding-challenge`  `interview`  `learn-python`  `python-tutorial`  `programming-exercises`  `programming-challenges`  `programming-fundamentals`  `programming-contest`  `python-coding-challenges`  `python-problem-solving`
