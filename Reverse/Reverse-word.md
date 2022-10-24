@@ -21,8 +21,6 @@ together = ' '.join(words)
 print(together)
 ```
 
-**[Try it on Programming Hero](https://play.google.com/store/apps/details?id=com.learnprogramming.codecamp)**
-
 ## Solution
  
 ```python
@@ -36,7 +34,6 @@ reverse = reverse_words(usr_input)
 print('Reversed words are: ', reverse)
 ```
 
-**[Try it on Programming Hero](https://play.google.com/store/apps/details?id=com.learnprogramming.codecamp)**
 
 ## Explanation
 Once you understand the split and the join method, this code should become super easy for you. 
@@ -83,9 +80,9 @@ How would you join each string in the words list by the hyphen(-)?
 
 ## Reverse domain
 
-Let’s say, you have the website name www.programming-hero.com
+Let’s say, you have the website name www.abc.com
 
-Now you want to reverse the domain name: com.programming-hero.www
+Now you want to reverse the domain name: com.abc.www
 
 ```python
 site='www.programming-hero.com'
@@ -95,7 +92,6 @@ rev =  '.'.join(parts)
 print(rev)
 ```
 
-**[Try it on Programming Hero](https://play.google.com/store/apps/details?id=com.learnprogramming.codecamp)**
 Alternatively, you can write the whole code in one line. 
 
 ```python
@@ -104,16 +100,6 @@ rev = '.'.join(reversed(site.split('.')))
 print(rev)
 ```
 
-**[Try it on Programming Hero](https://play.google.com/store/apps/details?id=com.learnprogramming.codecamp)**
-
 ## take Away
 The split method breaks string into elements of a list.
-
-
-
-&nbsp;
-[![Next Page](../assets/next-button.png)](../Medium/Check-palindrome.md)
-&nbsp;
-
-tags:  `programming-hero`  `python`  `python3`  `problem-solving`  `programming`  `coding-challenge`  `interview`  `learn-python`  `python-tutorial`  `programming-exercises`  `programming-challenges`  `programming-fundamentals`  `programming-contest`  `python-coding-challenges`  `python-problem-solving`
 
